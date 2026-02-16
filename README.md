@@ -1,2 +1,8 @@
 # GenAIiOSApp
-##Unfortunately got some issues so that App not available,Soon it will be availabe
+### OpenAI API Examples
+
+#### Text chat
+
+A basic text chat example.
+
+It shows both of normal and streaming implementations.
